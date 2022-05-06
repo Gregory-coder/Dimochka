@@ -11,14 +11,18 @@ margin-left: auto;
 }
 
 #input_div {
-position:absolute;
+position:relative;
 width:100%;
+margin-top: 300px;
 text-align:center;
 }
 
 #search_note {
-position:absolute;
+position:relative;
 width:200px;
-top:400px;
+font-size: 15pt;
+}
+
+#input_button {
 font-size: 15pt;
 }
