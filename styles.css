@@ -1,0 +1,24 @@
+h1 {
+position:absolute;
+width:100%;
+text-align:center;
+top: 150px;
+font-family: Arial;
+font-size: 40pt;
+color: #8a8275;
+margin-right: auto;
+margin-left: auto;
+}
+
+#input_div {
+position:absolute;
+width:100%;
+text-align:center;
+}
+
+#search_note {
+position:absolute;
+width:200px;
+top:400px;
+font-size: 15pt;
+}
